@@ -1,9 +1,21 @@
+
+``` c
+      ____________________________
+     /                           /\
+    /                          _/ /\
+   /   Encryption IC Burner   / \/
+  /                           /\
+ /___________________________/ /
+ \___________________________\/
+  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
+```
+
 # Microchip_CryptoAuthLib_STM32
 Microchip 加密芯片 CryptoAuthLib 库在STM32上的移植以及对称IP保护使用示例
 
 
 # 硬件 & 软件 需求
-本工程可直接编译并烧录运行于NUCLEO-F302R8开发板上，当然也可根据你自己的芯片型号进行移植，通过配合使用STM32CubeMX，移植工作将非常方便快捷。
+本工程可直接编译并烧录运行于`反客STM32F103VET6最小系统开发板`上，当然也可根据你自己的芯片型号进行移植，通过配合使用STM32CubeMX，移植工作将非常方便快捷。
 
 **注意:**
  - 1.在Keil中编译时，需要使能目标设置中的 GNU extensions
@@ -11,7 +23,7 @@ Microchip 加密芯片 CryptoAuthLib 库在STM32上的移植以及对称IP保护
 
 
 ## 硬件需求:
- - NUCLEO-F302R8 - Development Board(芯片: STM32F302R8T6)
+ - STM32F103VET6
  - 杜邦线若干
  - SOIC8编程烧录座
 
