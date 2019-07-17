@@ -1,0 +1,2 @@
+# Microchip_CryptoAuthLib_STM32
+Microchip 加密芯片 CryptoAuthLib 库在STM32上的移植以及对称IP保护使用示例
