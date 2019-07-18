@@ -1,3 +1,8 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
 # Prerequisites
 *.d
 
@@ -17,10 +22,11 @@
 *.pch
 
 # Libraries
-*.lib
 *.a
-*.la
-*.lo
+# *.lib
+# *.a
+# *.la
+# *.lo
 
 # Shared objects (inc. Windows DLLs)
 *.dll
@@ -44,7 +50,7 @@
 
 # Kernel Module Compile Results
 *.mod*
-*.cmd
+# *.cmd
 .tmp_versions/
 modules.order
 Module.symvers
