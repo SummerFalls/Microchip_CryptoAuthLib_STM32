@@ -1,0 +1,2 @@
+for /R %%f in (*.c;*.h) do AStyle.exe --style=kr --indent=spaces=4 --attach-closing-while --indent-switches --indent-preproc-define --indent-col1-comments --max-continuation-indent=60 --break-blocks --pad-oper --pad-comma --pad-header --align-pointer=name --align-reference=name --break-one-line-headers --add-braces --attach-return-type --attach-return-type-decl --convert-tabs --max-code-length=200 --suffix=none --verbose %%f
+pause
