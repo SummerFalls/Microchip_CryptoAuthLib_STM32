@@ -37,3 +37,6 @@ Microchip 加密芯片 CryptoAuthLib 库在STM32上的移植以及对称IP保护
 
 # 参考程序
  - [cryptoauth_usecase_ipprotection_symmetric](https://github.com/MicrochipTech/cryptoauth_usecase_ipprotection_symmetric)
+ 
+# 扩展项目示例（emWin & FreeRTOS）
+![带LCD显示屏版本](https://github.com/SummerFalls/Microchip_CryptoAuthLib_STM32/blob/master/F103VET6_EncryptionChip_GUI_Ver.jpg)
