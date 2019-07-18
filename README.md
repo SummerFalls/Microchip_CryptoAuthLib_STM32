@@ -28,8 +28,8 @@ Microchip 加密芯片 CryptoAuthLib 库在STM32上的移植以及对称IP保护
  - SOIC8编程烧录座
 
 ## 软件需求:
- - Keil uVision5
- - STM32CubeMX 5.2.0 及以上
+ - Keil uVision5.27
+ - STM32CubeMX 5.3.0 及以上
  - [CryptoAuthLib](https://github.com/MicrochipTech/cryptoauthlib)
  - 串口调试工具 putty/SSCOM/超级终端...
 
