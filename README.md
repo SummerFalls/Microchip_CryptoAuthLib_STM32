@@ -13,6 +13,8 @@
 # Microchip_CryptoAuthLib_STM32
 Microchip 加密芯片 CryptoAuthLib 库在STM32上的移植以及对称IP保护使用示例
 
+![加密芯片批量烧录&验证串口调试信息打印](https://github.com/SummerFalls/Microchip_CryptoAuthLib_STM32/blob/master/SerialDebugInfo.png)
+
 
 # 硬件 & 软件 需求
 本工程可直接编译并烧录运行于`反客STM32F103VET6最小系统开发板`上，当然也可根据你自己的芯片型号进行移植，通过配合使用STM32CubeMX，移植工作将非常方便快捷。
