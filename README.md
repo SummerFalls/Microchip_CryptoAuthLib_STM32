@@ -4,6 +4,8 @@
 ![GitHub](https://img.shields.io/github/license/SummerFalls/Microchip_CryptoAuthLib_STM32)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/SummerFalls/Microchip_CryptoAuthLib_STM32?label=%E4%BB%A3%E7%A0%81%E5%A4%A7%E5%B0%8F)
 
+<a title="Hits" target="_blank" href="https://github.com/SummerFalls/Microchip_CryptoAuthLib_STM32"><img src="https://hits.b3log.org/b3log/hits.svg"></a>
+
 ``` c
       ____________________________
      /                           /\
