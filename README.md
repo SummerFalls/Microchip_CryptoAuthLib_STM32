@@ -1,7 +1,6 @@
 # :beers: Microchip_CryptoAuthLib_STM32 ![Project](https://img.shields.io/badge/Project-Microchip__CryptoAuthLib__STM32-blue)
 
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSummerFalls%2FMicrochip_CryptoAuthLib_STM32.svg?type=small)](https://app.fossa.com/projects/git%2Bgithub.com%2FSummerFalls%2FMicrochip_CryptoAuthLib_STM32?ref=badge_small)
-![GitHub](https://img.shields.io/github/license/SummerFalls/Microchip_CryptoAuthLib_STM32)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/SummerFalls/Microchip_CryptoAuthLib_STM32?label=%E4%BB%A3%E7%A0%81%E5%A4%A7%E5%B0%8F)
 <a href="https://github.com/SummerFalls/Microchip_CryptoAuthLib_STM32/releases"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/SummerFalls/Microchip_CryptoAuthLib_STM32"></a>
 <a href="https://github.com/SummerFalls/Microchip_CryptoAuthLib_STM32/graphs/contributors"><img alt="Contributors" src="https://img.shields.io/github/contributors/SummerFalls/Microchip_CryptoAuthLib_STM32.svg?style=flat"></a>
