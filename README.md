@@ -20,24 +20,22 @@
 
 ## :wink: 简介
 
-Microchip 加密芯片 CryptoAuthLib 库在STM32上的移植以及对称IP保护使用示例
-
-![加密芯片批量烧录&验证串口调试信息打印](./SerialDebugInfo.png)
+Microchip 加密芯片 CryptoAuthLib 库在 STM32 上的移植以及对称 IP 保护使用示例
 
 ## :dark_sunglasses: 硬件 & 软件 需求
 
-本工程可直接编译并烧录运行于`反客STM32F103VET6最小系统开发板`上，当然也可根据你自己的芯片型号进行移植，通过配合使用STM32CubeMX，移植工作将非常方便快捷。
+本工程可直接编译并烧录运行于 `反客STM32F103VET6最小系统开发板` 上，当然也可根据你自己的芯片型号进行移植，通过配合使用STM32CubeMX，移植工作将非常方便快捷。
 
 **注意:**
 
-1. 在Keil中编译时，需要使能目标设置中的 GNU extensions
-2. 若自己移植到其它MCU，使用GCC编译器的IDE也许会更好，例如 TrueStudio/STM32CubeIDE
+1. 在 Keil 中编译时，需要使能目标设置中的 GNU extensions
+2. 若自己移植到其它 MCU，使用 GCC 编译器的 IDE 也许会更好，例如 TrueStudio/STM32CubeIDE
 
 ### 硬件需求
 
 - STM32F103VET6
 - 杜邦线若干
-- SOIC8编程烧录座
+- SOIC8 编程烧录座
 
 ### 软件需求
 
@@ -74,8 +72,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSummerFalls%2FMicrochip_CryptoAuthLib_STM32.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSummerFalls%2FMicrochip_CryptoAuthLib_STM32?ref=badge_large)
+## :bulb: 扩展项目示例（STemWin & FreeRTOS）
 
-## :bulb: 扩展项目示例（emWin & FreeRTOS）
+:speech_balloon: 以下图片中运行的程序是本仓库工程的带 GUI 版本，在本仓库程序的基础上扩展而来
 
-![带LCD显示屏版本](./F103VET6_EncryptionChip_GUI_Ver.jpg)
+![批量烧录系统_00](./Pics_00_EncryptionChipBatchBurningSystem.jpg)
+![批量烧录系统_01](./Pics_01_EncryptionChipBatchBurningSystem.jpg)
