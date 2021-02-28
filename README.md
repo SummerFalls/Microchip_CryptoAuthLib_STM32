@@ -5,7 +5,7 @@
 <a href="https://github.com/SummerFalls/Microchip_CryptoAuthLib_STM32/releases"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/SummerFalls/Microchip_CryptoAuthLib_STM32"></a>
 <a href="https://github.com/SummerFalls/Microchip_CryptoAuthLib_STM32/graphs/contributors"><img alt="Contributors" src="https://img.shields.io/github/contributors/SummerFalls/Microchip_CryptoAuthLib_STM32.svg?style=flat"></a>
 <a href="https://github.com/SummerFalls/Microchip_CryptoAuthLib_STM32/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/github/license/SummerFalls/Microchip_CryptoAuthLib_STM32.svg?style=flat"></a>
-<a title="Hits" target="_blank" href="https://github.com/SummerFalls/Microchip_CryptoAuthLib_STM32"><img src="https://hits.b3log.org/b3log/hits.svg"></a>
+<a title="Hits" target="_blank" href="https://github.com/SummerFalls/Microchip_CryptoAuthLib_STM32"><img src="https://hits.b3log.org/SummerFalls/Microchip_CryptoAuthLib_STM32.svg"></a>
 
 ```c
       ____________________________
